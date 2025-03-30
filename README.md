@@ -22,8 +22,8 @@ python --version
 
 ### Step 1: Clone the Repository
 ```sh
-git clone https://github.com/your-repo/ip-intel-scanner.git
-cd ip-intel-scanner
+git clone https://github.com/techcorp/IP_Intel_Scanner
+cd Ip_Intel_Scanner
 ```
 
 ### Step 2: Install Dependencies
@@ -35,7 +35,7 @@ pip install -r requirements.txt
 ## Usage
 Run the tool using:
 ```sh
-python ip_scanner.py
+python iplookup.py
 ```
 Then, enter the IP address you want to lookup when prompted.
 
